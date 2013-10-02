@@ -1,5 +1,4 @@
-
-REBAR = rebar
+REBAR = ./rebar
 APP = quick_chat
 
 default: compile
